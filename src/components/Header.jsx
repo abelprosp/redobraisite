@@ -13,7 +13,7 @@ export default function Header() {
         <header className="header">
             <div className="header-content">
                 <a href="#" className="logo">
-                    <img src="./public/logo.png" alt="Redobrai Logo" />
+                    <img src="/logo.png" alt="Redobrai Logo" />
                 </a>
 
                 <nav className="nav-desktop-links">

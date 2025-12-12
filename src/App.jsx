@@ -5,6 +5,7 @@ import Technology from './components/Technology';
 import Integrations from './components/Integrations';
 import Process from './components/Process';
 import Footer from './components/Footer';
+import RedobraiMode from './components/RedobraiMode';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <Services />
         <Technology />
+        <RedobraiMode />
         <Integrations />
         <Process />
       </main>

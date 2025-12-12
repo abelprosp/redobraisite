@@ -24,8 +24,8 @@ export default function Technology() {
                         Agendar Demo
                     </a>
                 </div>
-                <div class="mockup-container">
-                    <img src="./public/dashboard_sentinela.png" alt="Dashboard Sentinela" class="mockup-image" />
+                <div className="mockup-container">
+                    <img src="/dashboard_sentinela.png" alt="Dashboard Sentinela" className="mockup-image" />
                 </div>
             </div>
         </section>

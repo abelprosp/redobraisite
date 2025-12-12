@@ -15,8 +15,8 @@ export default function Hero() {
                         <a href="#about" class="btn btn-secondary">Saiba Mais</a>
                     </div>
                 </div>
-                <div class="hero-image">
-                    <img src="./public/raposa.png" alt="Redobrai Mascot Raposa" loading="lazy" />
+                <div className="hero-image">
+                    <img src="/raposa.png" alt="Redobrai Mascot Raposa" loading="lazy" />
                 </div>
             </div>
         </section>
