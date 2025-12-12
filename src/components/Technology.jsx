@@ -25,7 +25,7 @@ export default function Technology() {
                     </a>
                 </div>
                 <div class="mockup-container">
-                    <img src="public/dashboard_sentinela.png" alt="Dashboard Sentinela" class="mockup-image" />
+                    <img src="./public/dashboard_sentinela.png" alt="Dashboard Sentinela" class="mockup-image" />
                 </div>
             </div>
         </section>

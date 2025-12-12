@@ -16,7 +16,7 @@ export default function Hero() {
                     </div>
                 </div>
                 <div class="hero-image">
-                    <img src="public/raposa.png" alt="Redobrai Mascot Raposa" loading="lazy" />
+                    <img src="./public/raposa.png" alt="Redobrai Mascot Raposa" loading="lazy" />
                 </div>
             </div>
         </section>
